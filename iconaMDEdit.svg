@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4204"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="iconaMDEdit.svg">
+  <defs
+     id="defs4206" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="363.05511"
+     inkscape:cy="455.57107"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4830"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4209">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       rx="14.964466"
+       y="491.31744"
+       x="309.12134"
+       height="161.11932"
+       width="161.11932"
+       id="rect4227"
+       style="opacity:1;fill:#ff6c07;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+    <path
+       style="fill:#ce5a00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 456.12891 521.60352 L 456.12891 567.60352 L 456.12891 567.99219 L 456.12891 575.76367 L 456.12891 576.15234 L 456.12891 622.15234 L 369.62305 622.15234 L 323.23242 622.15234 L 353.51953 652.4375 L 455.27539 652.4375 C 463.5657 652.4375 470.24023 645.76297 470.24023 637.47266 L 470.24023 614.08398 L 470.24023 582.10352 L 470.24023 535.71484 L 456.12891 521.60352 z "
+       id="path4800"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+    <path
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 323.23275,521.6027 0,46 0,8.54882 0,46 132.89649,0 0,-46 0,-8.54882 0,-46 -132.89649,0 z m 7.01953,5.52734 118.85743,0 0,8 0,32.47266 0,8.54882 0,28.97071 0,11.5 -118.85743,0 0,-11.5 0,-28.97071 0,-8.54882 0,-32.47266 0,-8 z"
+       id="rect4762"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+    <g
+       id="g4830"
+       transform="translate(-3.7677669,-23.51277)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4767"
+         y="584.84698"
+         x="333.76349"
+         style="font-style:normal;font-weight:normal;font-size:29.18928528px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+         inkscape:export-xdpi="286"
+         inkscape:export-ydpi="286"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.4866066px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333"
+           y="584.84698"
+           x="333.76349"
+           id="tspan4769"
+           sodipodi:role="line">#.md</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4863"
+       width="97.735802"
+       height="6.1243687"
+       x="332.31506"
+       y="567.03693"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+    <rect
+       y="579.03693"
+       x="332.31506"
+       height="6.1243687"
+       width="76.235802"
+       id="rect4869"
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4871"
+       width="108.9858"
+       height="6.1243687"
+       x="332.31506"
+       y="591.03693"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+    <rect
+       y="603.03693"
+       x="332.31506"
+       height="6.1243687"
+       width="63.907745"
+       id="rect4879"
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/gabmus/iconaMDEdit.png"
+       inkscape:export-xdpi="286"
+       inkscape:export-ydpi="286" />
+  </g>
+</svg>

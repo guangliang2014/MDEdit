@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <!-- <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="1000" app:showAsAction="never" /> -->
+
+    <item android:id="@+id/action_compile" android:title="@string/act_compile"
+        android:orderInCategory="90" android:showAsAction="always"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_compile" />
+
+    <item android:id="@+id/action_open" android:title="@string/act_open"
+        android:orderInCategory="70" android:showAsAction="always"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_open" />
+
+    <item android:id="@+id/action_save" android:title="@string/act_save"
+        android:orderInCategory="80" android:showAsAction="always"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_save" />
+    <item android:id="@+id/action_exportHTML" android:title="@string/act_exportHTML"
+        android:orderInCategory="100" android:showAsAction="never"
+        app:showAsAction="never" />
+</menu>
